@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\50246\\Desktop\\Serie III programaci\u00F3n1\\gmail\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9767460-2E89-446E-803D-EAE34A345940}|gmail\\gmail.csproj|c:\\users\\50246\\desktop\\serie iii programaci\u00F3n1\\gmail\\gmail\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9767460-2E89-446E-803D-EAE34A345940}|gmail\\gmail.csproj|solutionrelative:gmail\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\50246\\Desktop\\Serie III programaci\u00F3n1\\gmail\\gmail\\Program.cs",
+              "RelativeDocumentMoniker": "gmail\\Program.cs",
+              "ToolTip": "C:\\Users\\50246\\Desktop\\Serie III programaci\u00F3n1\\gmail\\gmail\\Program.cs",
+              "RelativeToolTip": "gmail\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T18:55:50.52Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
